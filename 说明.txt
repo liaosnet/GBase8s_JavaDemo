@@ -1,6 +1,7 @@
-# Hibernate for GBase 8s
-æ³¨ï¼šè¯·ä½¿ç”¨ä¸hibernateç‰ˆæœ¬æœ€æ¥è¿‘çš„dialectæ–¹è¨€åŒ…ã€‚è‹¥ä»ä¸åŒ¹é…æˆ–è€…å‡ºç°å¼‚å¸¸é”™è¯¯ï¼Œè¯·å°†hibernateç‰ˆæœ¬å· åŠ ä½¿ç”¨çš„æ–¹è¨€åŒ… ç‰ˆæœ¬å· é‚®ä»¶è‡³liaojinqing@gbase.cnã€‚
-```text
+×¢£ºÇëÊ¹ÓÃÓëhibernate°æ±¾×î½Ó½üµÄdialect·½ÑÔ°ü¡£ÈôÈÔ²»Æ¥Åä»òÕß³öÏÖÒì³£´íÎó£¬Çë½«hibernate°æ±¾ºÅ ¼° Ê¹ÓÃµÄ·½ÑÔ°ü °æ±¾ºÅ ÓÊ¼şÖÁliaojinqing@gbase.cn¡£
+
+ËµÃ÷£º²»±£Ö¤ËæÊ±¸üĞÂ·½ÑÔ°ü£¡
+
 hibernate-3.2.6_GBase8s-2.0.1a2_2_v0.9.2
 *************************************************
 Hibernate : 3.2.6
@@ -76,4 +77,3 @@ GBase  8s : 2.0.1a2_2
 Java  Ver : 1.8
 Dialect   : org.hibernate.dialect.GBasedbtDialect
 Base      : org.hibernate.dialect.Informix10Dialect
-```
